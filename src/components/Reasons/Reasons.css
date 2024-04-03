@@ -16,8 +16,9 @@
     border-color: black;
 }
 .left-r>img:hover{
-    transform: scale(1.04);
+    transform: scale(1.01);
 }
+
 .left-r>:nth-child(1)
 {
     width: 18rem;
